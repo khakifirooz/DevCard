@@ -32,10 +32,17 @@ namespace DevCard_MVC.Controllers
         //}
 
         [HttpPost]
-        public JsonResult Contact(Contact form)
+        public IActionResult Contact(Contact model)
         {
-            Console.WriteLine(form.ToString());
-            return Json(Ok());
+            if (!ModelState.IsValid)
+            {
+                ViewBag.error = "??????? ???? ??? ???? ??????? . ???? ?????? ???? ????";
+                return View(model);
+            }
+
+            ViewBag.success = "?? ?????? ????? ??";
+            return View();
+           // return RedirectToAction("Index");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
