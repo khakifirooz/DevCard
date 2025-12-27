@@ -1,16 +1,19 @@
 using System.Diagnostics;
 using DevCard_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DevCard_MVC.Controllers
 {
     public class HomeController : Controller
     {
-
-        public HomeController()
+        private readonly List<Service> _services = new List<Service>()
         {
-            
-        }
+            new Service(1,"???? ??"),
+            new Service(2,"?????"),
+            new Service(3,"??????"),
+            new Service(4,"?????")
+        };
 
         public IActionResult Index()
         {
@@ -20,7 +23,10 @@ namespace DevCard_MVC.Controllers
         [HttpGet]
         public IActionResult Contact()
         {
-            var model = new Contact();
+            var model = new Contact
+            {
+                Services = new SelectList(_services, "Id", "Name")
+            };
             return View(model);
         }
 
