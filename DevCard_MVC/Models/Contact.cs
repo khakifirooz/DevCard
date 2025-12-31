@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json.Serialization;
 
@@ -14,8 +15,10 @@ namespace DevCard_MVC.Models
         [Required(ErrorMessage = "این فیلد اجباری است")]
         [EmailAddress(ErrorMessage ="مقدار وراد شده ایمیل صحیح نمیباشد")]
         public string Email { get; set; }
+        public int? Service { get; set; }
         public string Message { get; set; }
-        public string Service { get; set; }
+
+        [ValidateNever]
         public SelectList Services { get; set; }
     }
 }

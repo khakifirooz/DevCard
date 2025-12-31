@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using DevCard_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -9,10 +9,10 @@ namespace DevCard_MVC.Controllers
     {
         private readonly List<Service> _services = new List<Service>()
         {
-            new Service(1,"???? ??"),
-            new Service(2,"?????"),
-            new Service(3,"??????"),
-            new Service(4,"?????")
+            new Service(1,"نقره ای"),
+            new Service(2,"طلایی"),
+            new Service(3,"پلاتین"),
+            new Service(4,"الماس")
         };
 
         public IActionResult Index()
@@ -40,14 +40,24 @@ namespace DevCard_MVC.Controllers
         [HttpPost]
         public IActionResult Contact(Contact model)
         {
+            model.Services = new SelectList(_services, "Id", "Name");
+
             if (!ModelState.IsValid)
             {
-                ViewBag.error = "??????? ???? ??? ???? ??????? . ???? ?????? ???? ????";
+                ViewBag.error = "ارسال فرم ب خطا مواجه شد . لطفا دوباره تلاش کنید";
                 return View(model);
             }
 
-            ViewBag.success = "?? ?????? ????? ??";
-            return View();
+            ModelState.Clear();
+
+            model = new Contact()
+            {
+                Services = new SelectList(_services, "Id", "Name")
+            };
+
+            ViewBag.success = "فرم با موفقیت ارسال شد";
+
+            return View(model);
            // return RedirectToAction("Index");
         }
 
