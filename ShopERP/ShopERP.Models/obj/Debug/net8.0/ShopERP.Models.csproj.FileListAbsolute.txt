@@ -1,0 +1,11 @@
+F:\asp . net core codes\ShopERP\ShopERP.Models\bin\Debug\net8.0\ShopERP.Models.deps.json
+F:\asp . net core codes\ShopERP\ShopERP.Models\bin\Debug\net8.0\ShopERP.Models.dll
+F:\asp . net core codes\ShopERP\ShopERP.Models\bin\Debug\net8.0\ShopERP.Models.pdb
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ShopERP.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ShopERP.Models.AssemblyInfoInputs.cache
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ShopERP.Models.AssemblyInfo.cs
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ShopERP.Models.csproj.CoreCompileInputs.cache
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ShopERP.Models.dll
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\refint\ShopERP.Models.dll
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ShopERP.Models.pdb
+F:\asp . net core codes\ShopERP\ShopERP.Models\obj\Debug\net8.0\ref\ShopERP.Models.dll
