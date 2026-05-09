@@ -1,0 +1,17 @@
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.Business.deps.json
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.Business.dll
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.Business.pdb
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.AssemblyInfoInputs.cache
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.AssemblyInfo.cs
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.csproj.CoreCompileInputs.cache
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.dll
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\refint\ShopERP.Business.dll
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.pdb
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ref\ShopERP.Business.dll
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.DataAccess.dll
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.Models.dll
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.DataAccess.pdb
+F:\asp . net core codes\ShopERP\ShopERP.Business\bin\Debug\net8.0\ShopERP.Models.pdb
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.csproj.AssemblyReference.cache
+F:\asp . net core codes\ShopERP\ShopERP.Business\obj\Debug\net8.0\ShopERP..F170E8C1.Up2Date
