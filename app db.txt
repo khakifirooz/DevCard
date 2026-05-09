@@ -1,0 +1,35 @@
+public class AppDbContext : DbContext
+{
+    public DbSet<Author> Authors { get; set; }
+    public DbSet<Book> Books { get; set; }
+    public DbSet<Employee> Employees { get; set; }
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        var configBulder = new ConfigurationBuilder();
+        var configuration = configBulder.AddJsonFile("appsettings.json").Build();
+        var configSection = configuration.GetSection("ConnectionStrings");
+        var connectionString = configSection["DBConnection"];
+        optionsBuilder.UseSqlServer(connectionString);
+    }
+
+    override protected void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        //modelBuilder.Entity<Employee>()
+        //    .HasOne(e => e.ContactInfo)
+        //    .WithOne(c => c.Employee)
+        //    .HasForeignKey<ContactInfo>(c => c.EmployeeId);
+    }
+}
+
+
+
+
+
+
+
+
+{
+    "ConnectionStrings": {
+        "DBConnection": "Server = .; Database = AppDbOneToMany; Integrated Security = True; encrypt = True; TrustServerCertificate = True;"
+    }
+}

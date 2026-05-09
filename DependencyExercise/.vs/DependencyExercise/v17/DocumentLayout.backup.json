@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\asp . net core codes\\DependencyExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B5411F-0914-4C22-8291-25A686F6FC78}|DependencyExercise\\DependencyExercise.csproj|f:\\asp . net core codes\\dependencyexercise\\dependencyexercise\\bll\\gamebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B5411F-0914-4C22-8291-25A686F6FC78}|DependencyExercise\\DependencyExercise.csproj|solutionrelative:dependencyexercise\\bll\\gamebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B5411F-0914-4C22-8291-25A686F6FC78}|DependencyExercise\\DependencyExercise.csproj|f:\\asp . net core codes\\dependencyexercise\\dependencyexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B5411F-0914-4C22-8291-25A686F6FC78}|DependencyExercise\\DependencyExercise.csproj|solutionrelative:dependencyexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B5411F-0914-4C22-8291-25A686F6FC78}|DependencyExercise\\DependencyExercise.csproj|f:\\asp . net core codes\\dependencyexercise\\dependencyexercise\\dal\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B5411F-0914-4C22-8291-25A686F6FC78}|DependencyExercise\\DependencyExercise.csproj|solutionrelative:dependencyexercise\\dal\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "F:\\asp . net core codes\\DependencyExercise\\DependencyExercise\\DAL\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "DependencyExercise\\DAL\\DataAccessLayer.cs",
+              "ToolTip": "F:\\asp . net core codes\\DependencyExercise\\DependencyExercise\\DAL\\DataAccessLayer.cs",
+              "RelativeToolTip": "DependencyExercise\\DAL\\DataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:30:44.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBussiness.cs",
+              "DocumentMoniker": "F:\\asp . net core codes\\DependencyExercise\\DependencyExercise\\BLL\\GameBussiness.cs",
+              "RelativeDocumentMoniker": "DependencyExercise\\BLL\\GameBussiness.cs",
+              "ToolTip": "F:\\asp . net core codes\\DependencyExercise\\DependencyExercise\\BLL\\GameBussiness.cs",
+              "RelativeToolTip": "DependencyExercise\\BLL\\GameBussiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:30:05.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\asp . net core codes\\DependencyExercise\\DependencyExercise\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyExercise\\Program.cs",
+              "ToolTip": "F:\\asp . net core codes\\DependencyExercise\\DependencyExercise\\Program.cs",
+              "RelativeToolTip": "DependencyExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:28:10.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

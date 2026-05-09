@@ -1,0 +1,173 @@
+wwwroot\favicon.ico
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\assets\css\style.css
+wwwroot\assets\css\theme-1.css
+wwwroot\assets\fontawesome\js\all.js
+wwwroot\assets\fonts\IranianSans.eot
+wwwroot\assets\fonts\IranianSans.svg
+wwwroot\assets\fonts\IranianSans.ttf
+wwwroot\assets\fonts\IranianSans.woff
+wwwroot\assets\fonts\IranianSans.woff2
+wwwroot\assets\images\blog\blog-post-banner.jpg
+wwwroot\assets\images\blog\blog-post-thumb-1.jpg
+wwwroot\assets\images\blog\blog-post-thumb-2.jpg
+wwwroot\assets\images\blog\blog-post-thumb-3.jpg
+wwwroot\assets\images\blog\blog-post-thumb-4.jpg
+wwwroot\assets\images\blog\blog-post-thumb-5.jpg
+wwwroot\assets\images\blog\blog-post-thumb-6.jpg
+wwwroot\assets\images\blog\blog-post-thumb-card-1.jpg
+wwwroot\assets\images\blog\blog-post-thumb-card-2.jpg
+wwwroot\assets\images\blog\blog-post-thumb-card-3.jpg
+wwwroot\assets\images\blog\blog-post-thumb-card-4.jpg
+wwwroot\assets\images\blog\blog-post-thumb-card-5.jpg
+wwwroot\assets\images\blog\blog-post-thumb-card-6.jpg
+wwwroot\assets\images\clients\profile-1.png
+wwwroot\assets\images\clients\profile-2.png
+wwwroot\assets\images\clients\profile-3.png
+wwwroot\assets\images\clients\profile-4.png
+wwwroot\assets\images\clients\profile-5.png
+wwwroot\assets\images\clients\profile-6.png
+wwwroot\assets\images\me.jpeg
+wwwroot\assets\images\profile-lg.jpg
+wwwroot\assets\images\profile.png
+wwwroot\assets\images\project\project-1.jpg
+wwwroot\assets\images\project\project-2.jpg
+wwwroot\assets\images\project\project-3.jpg
+wwwroot\assets\images\project\project-4.jpg
+wwwroot\assets\images\project\project-5.jpg
+wwwroot\assets\images\project\project-6.jpg
+wwwroot\assets\images\project\project-7.jpg
+wwwroot\assets\images\project\project-8.jpg
+wwwroot\assets\images\project\project-figure-1.jpg
+wwwroot\assets\images\project\project-figure-2.jpg
+wwwroot\assets\images\promo-banner.jpg
+wwwroot\assets\images\resume-profile.png
+wwwroot\assets\plugins\bootstrap\js\bootstrap.min.js
+wwwroot\assets\plugins\jquery-3.4.1.min.js
+wwwroot\assets\plugins\popper.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\css\theme-1.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\favicon.ico
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\css\style.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation\dist\additional-methods.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery-validation\LICENSE.md
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\dist\jquery.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\dist\jquery.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\dist\jquery.min.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\dist\jquery.slim.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\dist\jquery.slim.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\dist\jquery.slim.min.map
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\lib\jquery\LICENSE.txt
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\fontawesome\js\all.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\fonts\IranianSans.svg
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\plugins\bootstrap\js\bootstrap.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\plugins\jquery-3.4.1.min.js
+F:\asp . net core codes\TestDevCard\TestDevCard\wwwroot\assets\plugins\popper.min.js

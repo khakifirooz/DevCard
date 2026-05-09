@@ -1,0 +1,14 @@
+F:\asp . net core codes\DependencyExercise\DependencyExercise\bin\Debug\net9.0\DependencyExercise.exe
+F:\asp . net core codes\DependencyExercise\DependencyExercise\bin\Debug\net9.0\DependencyExercise.deps.json
+F:\asp . net core codes\DependencyExercise\DependencyExercise\bin\Debug\net9.0\DependencyExercise.runtimeconfig.json
+F:\asp . net core codes\DependencyExercise\DependencyExercise\bin\Debug\net9.0\DependencyExercise.dll
+F:\asp . net core codes\DependencyExercise\DependencyExercise\bin\Debug\net9.0\DependencyExercise.pdb
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.AssemblyInfoInputs.cache
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.AssemblyInfo.cs
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.csproj.CoreCompileInputs.cache
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.dll
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\refint\DependencyExercise.dll
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.pdb
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\DependencyExercise.genruntimeconfig.cache
+F:\asp . net core codes\DependencyExercise\DependencyExercise\obj\Debug\net9.0\ref\DependencyExercise.dll
