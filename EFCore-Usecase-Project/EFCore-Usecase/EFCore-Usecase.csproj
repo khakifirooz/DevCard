@@ -7,4 +7,9 @@
     <RootNamespace>EFCore_Usecase</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EFCore.Domain\EFCore.Domain.csproj" />
+    <ProjectReference Include="..\EFCore_Application\EFCore_Application.csproj" />
+  </ItemGroup>
+
 </Project>
