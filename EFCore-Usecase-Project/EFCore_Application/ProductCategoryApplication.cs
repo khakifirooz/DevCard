@@ -23,7 +23,7 @@ namespace EFCore_Application
             productCategoryRepository.SaveChanges();
         }
 
-        public void Edite(EditProductCategory command)
+        public void Edit(EditProductCategory command)
         {
             var productCategory = productCategoryRepository.Get(command.Id);
             if (productCategory == null)

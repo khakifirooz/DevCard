@@ -1,0 +1,16 @@
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\bin\Debug\net8.0\EFCore.Domain.deps.json
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\bin\Debug\net8.0\EFCore.Domain.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\bin\Debug\net8.0\EFCore.Domain.pdb
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\bin\Debug\net8.0\EFCore_Application.Contract.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\bin\Debug\net8.0\EFCore_Application.Contract.pdb
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.csproj.AssemblyReference.cache
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.AssemblyInfoInputs.cache
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.AssemblyInfo.cs
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.csproj.CoreCompileInputs.cache
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.sourcelink.json
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.D.ECBEDDB1.Up2Date
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\refint\EFCore.Domain.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.pdb
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore.Domain\obj\Debug\net8.0\ref\EFCore.Domain.dll
