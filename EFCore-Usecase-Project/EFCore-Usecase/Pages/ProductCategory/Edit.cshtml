@@ -1,0 +1,18 @@
+﻿@page
+@model EFCore_Usecase.Pages.ProductCategory.EditModel
+@{
+}
+
+<form method="post">
+	<div class="row">
+		\
+		<div class="col-md-6">
+			<label asp-for="@Model.command.Name"></label>
+			<input class="form-control" asp-for="@Model.command.Name" type="text" />
+		</div>
+		<input type="hidden" asp-for="@Model.command.Id" value="@Model.command.Id" />
+		<dive class="col-md-12">
+			<button type="submit" class="btn btn-success">ویرایش</button>
+		</dive>
+	</div>
+</form>
