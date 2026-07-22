@@ -3,7 +3,7 @@
     public interface IProductCategoryApplication
     {
         void Create(CreateProductCategory command);
-        void Edite(EditProductCategory command);
+        void Edit(EditProductCategory command);
         List<ProductCategoryViewModel> Search(string name);
     }
 }

@@ -1,0 +1,12 @@
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\bin\Debug\net8.0\EFCore_Application.Contract.deps.json
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\bin\Debug\net8.0\EFCore_Application.Contract.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\bin\Debug\net8.0\EFCore_Application.Contract.pdb
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.AssemblyInfoInputs.cache
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.AssemblyInfo.cs
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.csproj.CoreCompileInputs.cache
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.sourcelink.json
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\refint\EFCore_Application.Contract.dll
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\EFCore_Application.Contract.pdb
+F:\asp . net core codes\EFCore-Usecase-Project\EFCore_Application.Contract\obj\Debug\net8.0\ref\EFCore_Application.Contract.dll
