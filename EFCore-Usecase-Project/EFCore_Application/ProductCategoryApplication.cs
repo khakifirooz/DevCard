@@ -33,6 +33,11 @@ namespace EFCore_Application
             productCategoryRepository.SaveChanges();
         }
 
+        public EditProductCategory GetDetails(int id)
+        {
+            return productCategoryRepository.GetDetails(id);
+        }
+
         public List<ProductCategoryViewModel> Search(string name)
         {
             return productCategoryRepository.GetAll(name);
