@@ -30,6 +30,7 @@ namespace EFCore_Infrasturactures.EfCore.Repository
 
         public List<ProductCategoryViewModel> GetAll(string name)
         {
+            //projection
             var query = _context.ProductCategories
                 .Select(x => new ProductCategoryViewModel()
                 {
@@ -37,7 +38,7 @@ namespace EFCore_Infrasturactures.EfCore.Repository
                     Name = x.Name,
                     CreationDate = x.Name
                 });
-
+            //filtering
             if(!string.IsNullOrWhiteSpace(name))
                 query = query.Where(x => x.Name.Contains(name));
 
