@@ -36,13 +36,24 @@ namespace EFCore_Infrasturactures.EfCore.Repository
                 {
                     Id = x.Id,
                     Name = x.Name,
-                    CreationDate = x.Name
+                    CreationDate = x.CreationDate.ToString()
                 });
+
             //filtering
             if(!string.IsNullOrWhiteSpace(name))
                 query = query.Where(x => x.Name.Contains(name));
 
+            //sorting
             return query.OrderByDescending(x => x.Id).ToList();
+        }
+
+        public EditProductCategory GetDetails(int id)
+        {
+            return _context.ProductCategories.Select(x => new EditProductCategory
+            { 
+                Id = x.Id,
+                Name = x.Name,
+            }).FirstOrDefault(x => x.Id == id);
         }
 
         public void SaveChanges()
