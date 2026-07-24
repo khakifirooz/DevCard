@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCore-Usecase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71c334cd5bfbf7abe2c550e85822ea93f90b872b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4d0a6d8380965f3037035f725e19b143948ee9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore-Usecase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore-Usecase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

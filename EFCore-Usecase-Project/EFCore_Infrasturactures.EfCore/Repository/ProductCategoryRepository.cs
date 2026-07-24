@@ -28,7 +28,7 @@ namespace EFCore_Infrasturactures.EfCore.Repository
             return _context.ProductCategories.FirstOrDefault(x => x.Id == id);
         }
 
-        public List<ProductCategoryViewModel> GetAll(string name)
+        public List<ProductCategoryViewModel> Search(string name)
         {
             //projection
             var query = _context.ProductCategories
@@ -59,6 +59,15 @@ namespace EFCore_Infrasturactures.EfCore.Repository
         public void SaveChanges()
         {
             _context.SaveChanges();
+        }
+
+        public List<ProductCategoryViewModel> GetAll()
+        {
+            return _context.ProductCategories.Select(x => new ProductCategoryViewModel
+            { 
+                Id = x.Id,
+                Name = x.Name,
+            }).ToList();
         }
     }
 }

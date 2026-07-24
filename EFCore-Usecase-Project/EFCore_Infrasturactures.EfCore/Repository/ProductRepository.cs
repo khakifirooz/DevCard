@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EFCore_Infrasturactures.EfCore.Repository
 {
-    public class ProducrRepository : IProductRepository
+    public class ProductRepository : IProductRepository
     {
         private readonly EfContext _context;
 
-        public ProducrRepository(EfContext context)
+        public ProductRepository(EfContext context)
         {
             _context = context;
         }

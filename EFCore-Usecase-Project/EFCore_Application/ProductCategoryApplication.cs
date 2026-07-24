@@ -33,6 +33,11 @@ namespace EFCore_Application
             productCategoryRepository.SaveChanges();
         }
 
+        public List<ProductCategoryViewModel> GetAll()
+        {
+            return productCategoryRepository.GetAll();
+        }
+
         public EditProductCategory GetDetails(int id)
         {
             return productCategoryRepository.GetDetails(id);
@@ -40,7 +45,7 @@ namespace EFCore_Application
 
         public List<ProductCategoryViewModel> Search(string name)
         {
-            return productCategoryRepository.GetAll(name);
+            return productCategoryRepository.Search(name);
         }
     }
 }
