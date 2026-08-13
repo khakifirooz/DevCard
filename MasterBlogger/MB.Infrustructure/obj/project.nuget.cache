@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHs6yss7J/U=",
+  "dgSpecHash": "lOtPh1ylIbM=",
   "success": true,
-  "projectFilePath": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\MB.Infrustructure.csproj",
+  "projectFilePath": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\MB.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehrshad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mehrshad\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

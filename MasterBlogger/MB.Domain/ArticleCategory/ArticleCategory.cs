@@ -11,7 +11,39 @@
         {
             Title = title;
             IsDeleted = false;
-            CreationDate = DateTime.Now;
+            CreationDate = DateTime.UtcNow;
+        }
+
+        public void Edit(string title)
+        {
+            Title = title;
+        }
+
+        public void Delete()
+        {
+            IsDeleted = true;
+        }
+
+        public void Restore()
+        {
+            IsDeleted = false;
+        }
+
+        private void SetTitle(string title)
+        {
+            if (string.IsNullOrWhiteSpace(title))
+                throw new ArgumentException(
+                    "عنوان دسته‌بندی نمی‌تواند خالی باشد.",
+                    nameof(title));
+
+            title = title.Trim();
+
+            if (title.Length > 100)
+                throw new ArgumentException(
+                    "عنوان دسته‌بندی نمی‌تواند بیشتر از ۱۰۰ کاراکتر باشد.",
+                    nameof(title));
+
+            Title = title;
         }
     }
 }

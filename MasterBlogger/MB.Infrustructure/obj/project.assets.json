@@ -4038,9 +4038,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\MB.Infrustructure.csproj",
-      "projectName": "MB.Infrustructure",
-      "projectPath": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\MB.Infrustructure.csproj",
+      "projectUniqueName": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\MB.Infrastructure.csproj",
+      "projectName": "MB.Infrastructure",
+      "projectPath": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\MB.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Mehrshad\\.nuget\\packages\\",
       "outputPath": "F:\\asp . net core codes\\MasterBlogger\\MB.Infrustructure\\obj\\",
       "projectStyle": "PackageReference",
